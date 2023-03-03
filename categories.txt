@@ -1,0 +1,119 @@
+Drawing class for kids::Art Classes
+Painting class for kids::Art Classes
+Pottery class for kids::
+Crafts class for kids::Art Classes
+creative writing class for kids::
+Art class for kids::Art Classes
+Theater class for kids::Performing Arts
+Cooking class for kids::Cooking Classes
+Piano class for kids::Musical instruments & teachers
+Guitar class for kids::Musical instruments & teachers
+Drums class for kids::Musical instruments & teachers
+Singing class for kids::Musical instruments & teachers
+Flute class for kids::Musical instruments & teachers
+Trumpet class for kids::Musical Instruments & Teachers
+Clarinet class for kids::Musical instruments & teachers
+Carnatic Vocal class for kids::
+Hindustani class for kids::
+Tabla class for kids::
+Violin class for kids::
+Saxaphone class for kids::
+Harp class for kids::
+Cello class for kids::
+Violin class for kids::
+Ballet for kids::
+Hip Hop dance class for kids::
+Jazz dance class for kids::
+Tap dance class for kids::
+Contemporary dance class for kids::
+Irish dance class for kids::
+Bollywood dance class for kids::
+Bharathanatyam dance class for kids::
+Modern dance class for kids::
+Coding class for kids::
+artificial intelligence class for kids::
+cybersecurity class for kids::
+Robotics class for kids::
+3d design and printing class for kids::
+game design class for kids::
+web design class for kids::
+mobile app development class for kids::
+Science class for kids::
+Math class for kids::
+Reading class for kids::
+summer camps::Summer Camps
+Tamil language class for kids::
+Telugu language class for kids::
+Mandarin language class for kids::
+Hindi language class for kids::
+Spanish language class for kids::
+German language class for kids::
+Russian language class for kids::
+English language class for kids::
+Italian language class for kids::
+Korean language class for kids::
+Cantonese language class for kids::
+Soccer class for kids::
+Swimming class for kids::
+Tennis class for kids::
+Surf class for kids::
+Yoga class for kids::
+fencing class for kids::
+archery class for kids::
+ice hockey class for kids class for kids::
+Rock Climbing class for kids::
+Skateboard class for kids::
+Roller Skates class for kids::
+Golf class for kids::
+karate class for kids::
+baseball class for kids::
+Horse back riding class for kids::
+volley ball class for kids::
+skating class for kids::
+basketball class for kids::
+Martial arts class for kids::
+gymnastics class for kids::
+Playgrounds for kids::
+Petting zoo for kids::
+Beach for kids::
+Bike Trails for kids::
+Picnic Spots for kids::
+Zoo for kids::
+Aquarium for kids::
+Barn for kids::
+Animal Farms for kids::
+library for kids::
+Art Museum for kids::
+Children's museum for kids::
+Science Museum for kids::
+Computer Museum for kids::
+Discovery museum for kids::
+Space museum for kids::
+Technology museum for kids::
+Pools for kids::
+Water parks for kids::
+Amusement Parks for kids::
+Bowling Alley for kids::
+Theme Parks for kids::
+Children's Amusement Center for kids::
+Indoor Play Areas for kids::
+Ice rinks for kids::
+Laser tag for kids::
+Mini-golf course for kids::
+Skate Parks for kids::
+Trampoline Parks for kids::
+Arcades for kids::
+Go-Kart Tracks for kids::
+Obstacle Courses for kids::
+Rock Climbing for kids::
+Scavanger hunt events for kids::
+Roller skating rinks for kids::
+Paintball arenas for kids::
+Escape room for kids::
+Haunted house for kids::
+Hot Air Baloon Rides for kids::
+Batting Cages for kids::
+Birthday party venue for kids::
+Spring Camps for kids::
+Christmas Parks for kids::
+Halloween Parks for kids::
